@@ -1,0 +1,5 @@
+This is another branch 
+Name of the branch is bran1
+Default is main- that is the first branch
+Bran1 is the second branch
+In that bran1, name of the file is first_branch.txt
